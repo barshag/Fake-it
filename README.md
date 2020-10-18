@@ -4,7 +4,10 @@
 ## Introduction
 
 Ever wanted to make something really inspiring and world-changing? Like inventing Bitcoin, the TCP/IP stack or the structure of Neural-network architecture?
-I bet that your second thought you had is: "Naaaa, I don't capble / have the skills to accomplished something like this".
+I bet that your second thought you had is:
+
+"Naaaa, I don't capble / have the skills to accomplished something like this".
+
 Probablly it's true, but it doesn't matter cause probablly Mozart didn't estanlished his poets in one shot!
 This moving us to the motivation behind this repo -  building your muscles to have the abiliy to build the most amazing things in earth, but with the reference set you anytime you want!
 
