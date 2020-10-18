@@ -16,8 +16,8 @@ All that in order to get ready, that **when we would have the groundbreaking ide
 You can start by forking and doing Pull-request with the following format:
 A folder name with your project, with subfolders for the reference and the replicated reference, like this structure:
 
-[[
+```javascript
 --Project X
 ------Original reference
 ------Replicated version
-]]
+```
