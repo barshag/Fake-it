@@ -18,6 +18,6 @@ A folder name with your project, with subfolders for the reference and the repli
 
 ```javascript
 --Project X
-------Original reference
-------Replicated version
+------Original_reference
+------Replicated_version
 ```
